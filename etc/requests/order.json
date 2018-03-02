@@ -1,0 +1,14 @@
+{
+   "method": "POST",
+   "api": "/accounts/YOUR_ACCOUNT_HERE/orders",
+   "payload": {
+      "CustomerOrderId": "some_name",
+      "Ticker": "IBM",
+      "ListingExchange":"NYSE",
+      "Quantity": 100,
+      "Price": 0.01,
+      "OrderType": "Limit",
+      "TimeInForce": "GTC",
+      "Side": "BUY"
+   }
+}
