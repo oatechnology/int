@@ -1,7 +1,5 @@
 package com.interactivebrokers.webtradingapi.client.controllers;
 
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
-
 import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.http.HttpStatus;
