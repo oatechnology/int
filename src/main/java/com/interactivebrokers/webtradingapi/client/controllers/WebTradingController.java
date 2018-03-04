@@ -38,6 +38,11 @@ public class WebTradingController {
 	
 	}
 	
+	 @RequestMapping("hello")
+    public String sayHello(){
+        return ("Hello , SpringBoot API");
+    }
+	
 	/*
 	 * get live sessioon token
 	 * 
