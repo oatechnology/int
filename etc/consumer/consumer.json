@@ -1,9 +1,0 @@
-{
-   "consumer_key": "<SET YOUR CONSUMER NAME HERE>",
-   "signature_method": "RSA-SHA256",
-   "encryption_key": "private_encryption.pem",
-   "signature_key": "private_signature.pem",
-   "diffie_hellman": "dhparam.pem",
-   "realm_name": "limited_poa"
-}
-
